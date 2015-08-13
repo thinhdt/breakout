@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE6D88C7-0112-41F2-B0E3-9A4AC6FE251F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Breakout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49DB8D8658CE4ED8CDA1BE37883522E222607585</key>
+		<string>https://github.com/thinhdt/breakout.git</string>
+		<key>7637F6192F993FAD8F00FEEB6408622428E3BC0E</key>
+		<string>https://github.com/thinhdt/HexColor2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Breakout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49DB8D8658CE4ED8CDA1BE37883522E222607585</key>
+		<string>../..</string>
+		<key>7637F6192F993FAD8F00FEEB6408622428E3BC0E</key>
+		<string>../../../HexColor</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/thinhdt/breakout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49DB8D8658CE4ED8CDA1BE37883522E222607585</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49DB8D8658CE4ED8CDA1BE37883522E222607585</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Breakout</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7637F6192F993FAD8F00FEEB6408622428E3BC0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HexColor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
